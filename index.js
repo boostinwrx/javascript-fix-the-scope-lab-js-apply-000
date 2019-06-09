@@ -18,8 +18,8 @@ function add2(n) {
   // Feel free to move things around!
  
 
- function funkyFunction() {
-    return "FUNKY!" 
+ function funkyFunction(FUNKY) {
+    return funky
   }
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
