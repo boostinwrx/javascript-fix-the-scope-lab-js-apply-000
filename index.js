@@ -12,13 +12,13 @@ function yourAnimal(cat) {
 }
  const two = 2
 
-function add2() {
+function add2(n) {
   return n + two
 }
   // Feel free to move things around!
  
 
-function funkyFunction () = function() {
+function funkyFunction = function() {
     return "FUNKY!" 
   }
 
